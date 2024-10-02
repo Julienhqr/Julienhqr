@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julienhqr&label=Profile%20views&color=0e75b6&style=flat" alt="julienhqr" /> </p>
 
-- 🔭 I’m currently working on [cs2last](https://cs2last.com)
+- 🔭 I’m currently working on [cs2last](https://cs2last.com) & [406 Agency](https://github.com/406agency)
 
 - 🌱 I’m currently learning **React, Nextjs, Prisma (ORM)**
 
